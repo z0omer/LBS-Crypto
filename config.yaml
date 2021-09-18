@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://lbs-blockchain.netlify.app
 languageCode: en-us
 title: Forty
 theme: forty
