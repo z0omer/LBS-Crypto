@@ -20,7 +20,7 @@ params:
     buttonClear: Clear
     buttonSend: Get in touch
     email:
-      - email: lbscrypto@protonmail.com
+      - email: lbsblockchain@protonmail.com
         title: Email
     enable: yes
     phone:
@@ -75,8 +75,8 @@ params:
       - name: Elements
         url: elements.html
     menu: Menu
-    subtitle: Blockchain Club
-    title: LBS
+    subtitle: 
+    title: LBS Blockchain Club
   tiles:
     enable: yes
     showcase:
