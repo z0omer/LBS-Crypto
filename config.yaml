@@ -24,7 +24,7 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: t.me/telegraminfo
+      - phone: https://t.me/joinchat/TmY0VjZsnlcxM2Yy
         title: Telegram
   custom_css: []
   custom_js: []
