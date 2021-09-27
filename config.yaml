@@ -43,7 +43,7 @@ params:
     social:
       - icon: fa-twitter
         label: Twitter
-        url: https://www.twitter.com
+        url: https://www.twitter.com/lbscrypto
       - icon: fa-facebook
         label: Facebook
         url: https://www.facebook.com
@@ -83,7 +83,7 @@ params:
       - image: pic01.jpg
         subtitle: Learn more about Bitcoin, Cryptocurrencies and more
         title: Events
-        url: events
+        url: blogs/events
       - image: pic02.jpg
         subtitle: In depth research on the market and the technology 
         title: Research
@@ -93,8 +93,8 @@ params:
         title: Trading
         url: trading
       - image: pic04.jpg
-        subtitle: Work in progress
-        title: DAO
+        subtitle: DAO's, NFTs, Smartcontracts and more
+        title: Technology Labs
         url: dao
       - image: pic05.jpg
         subtitle: Connecting the dots to achieve decentralization
@@ -113,5 +113,5 @@ params:
       pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
       Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
       amet pharetra et feugiat tempus."
-    title: Massa libero
+    title: Our mission
     url: blogs
