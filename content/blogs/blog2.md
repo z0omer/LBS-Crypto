@@ -7,6 +7,6 @@ description: Lorem Etiam Nullam
 draft: false
 image: pic09.jpg
 keywords: ""
-slug: magna
-title: Magna
+slug: research
+title: Research
 ---

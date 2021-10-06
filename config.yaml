@@ -75,19 +75,19 @@ params:
       - name: Elements
         url: elements.html
     menu: Menu
-    subtitle: 
-    title: LBS Blockchain Club
+    subtitle: "."
+    title: LBS ₿lockchain 
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
+      - image: events.jpg
         subtitle: Learn more about Bitcoin, Cryptocurrencies and more
         title: Events
         url: blogs/events
       - image: pic02.jpg
         subtitle: In depth research on the market and the technology 
         title: Research
-        url: research
+        url: blogs/research
       - image: pic03.jpg
         subtitle: Work in progress
         title: Trading
@@ -107,11 +107,6 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
+    subtitle: "We want to foster a community at LBS to make crypto approachable, understandable and prepare our peers for the opportunities of the Web 3.0  \r\n "
     title: Our mission
     url: blogs

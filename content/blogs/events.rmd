@@ -1,0 +1,45 @@
+---
+title: "Events"
+date: '2017-10-31T21:28:43-05:00'
+description: ''
+draft: no
+image: 
+keywords: ''
+slug: events
+categories:
+- ''
+- ''
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Our Events team will cover the following topics this academic year. Details TBA
+
+### Blockchain 101 - an introduction to bitcoin, ethereum and more!
+
+```{r rednotice, echo=FALSE, out.width="80%"}
+knitr::include_graphics("/img/blogs/events.jpg", error = FALSE)
+```
+
+### Smart Contracts and DApps
+
+```{r power, echo=FALSE, out.width="60%"}
+knitr::include_graphics("/img/blogs/power.jpg", error = FALSE)
+```
+
+### Web 3.0
+
+```{r whynationsfail, echo=FALSE, out.width="60%"}
+knitr::include_graphics("/img/blogs/whynationsfail.jpg", error = FALSE)
+```
+
+### NFTs
+
+```{r statistics, echo=FALSE, out.width="60%"}
+knitr::include_graphics("/img/blogs/statistics.jpg", error = FALSE)
+```
+
+Follow us on social media to stay up to date with our events...
+
