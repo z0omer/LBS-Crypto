@@ -44,9 +44,9 @@ params:
       - icon: fa-twitter
         label: Twitter
         url: https://www.twitter.com/lbscrypto
-      - icon: fa-facebook
-        label: Facebook
-        url: https://www.facebook.com
+      # - icon: fa-facebook
+      #   label: Facebook
+      #   url: https://www.facebook.com
       - icon: fa-instagram
         label: Instagram
         url: https://www.instagram.com
@@ -84,26 +84,26 @@ params:
         subtitle: Learn more about Bitcoin, Cryptocurrencies and more
         title: Events
         url: blogs/events
-      - image: pic02.jpg
+      - image: crypto.jpg
         subtitle: In depth research on the market and the technology 
         title: Research
         url: blogs/research
-      - image: pic03.jpg
+      - image: trading.jpg
         subtitle: Work in progress
         title: Trading
         url: trading
-      - image: pic04.jpg
+      - image: digital.jpg
         subtitle: DAO's, NFTs, Smartcontracts and more
         title: Technology Labs
         url: dao
-      - image: pic05.jpg
+      - image: partners.jpg
         subtitle: Connecting the dots to achieve decentralization
         title: Industry Partners
         url: partners
-      - image: pic06.jpg
+      - image: team.jpg
         subtitle: The Builders, Hodlers and Enthusiasts
         title: About us
-        url: about-us
+        url: blogs/about-us
   two:
     buttonText: Get Started
     enable: yes
