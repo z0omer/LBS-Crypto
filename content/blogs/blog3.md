@@ -8,8 +8,10 @@ description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis mag
   sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem
   consequat tincidunt. Vivamus et sagittis tempus.
 draft: false
-image: pic08.jpg
+image: trading.jpg
 keywords: ""
-slug: tempus
-title: Tempus
+slug: trading
+title: Trading
 ---
+
+We will host crypto trading 101 workshops and more. Stay tuned!

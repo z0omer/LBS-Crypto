@@ -8,8 +8,10 @@ description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis mag
   sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem
   consequat tincidunt. Vivamus et sagittis tempus.
 draft: false
-image: pic07.jpg
+#image: pic07.jpg
 keywords: ""
-slug: aliquam
-title: Aliquam
+slug: partners
+title: Partners
 ---
+
+Reach out to us, if you would like to apply for our partners programme!

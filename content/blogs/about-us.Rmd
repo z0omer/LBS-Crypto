@@ -3,7 +3,6 @@ title: "About us"
 date: '2017-10-31T21:28:43-05:00'
 description: ''
 draft: no
-image: 
 keywords: ''
 slug: about-us
 categories:
@@ -19,48 +18,34 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### President
 
-![](~/R/Applied Statistics/LBS-Crypto/content/blogs/people.jpg)
-
-```{r rednotice, echo=FALSE, out.width="80%"}
-knitr::include_graphics("~/R/Applied Statistics/LBS-Crypto/themes/forty/static/img/people.jpg", error = FALSE)
-```
+!["President"](/img/people.jpg)
 
 ### Vice President
 
-![](~/R/Applied Statistics/LBS-Crypto/themes/forty/static/img/people2.jpg)
-
+!["Vice President"](/img/people2.jpg)
 
 ### Head of Events
 
-![](~/R/Applied Statistics/LBS-Crypto/themes/forty/static/img/people1.jpg)
-
-```{r whynationsfail, echo=FALSE, out.width="60%"}
-knitr::include_graphics("~/R/Applied Statistics/LBS-Crypto/themes/forty/static/img/people1.jpg", error = FALSE)
-```
+!["Head of Events"](/img/people1.jpg)
 
 ### Head of Marketing
 
-![](~/R/Applied Statistics/LBS-Crypto/themes/forty/static/img/people3.jpg)
+!["Head of Marketing"](/img/people3.jpg)
 
 ### Head of Research
 
-![](~/R/Applied Statistics/LBS-Crypto/themes/forty/static/img/people.jpg)
+!["Head of Research"](/img/people.jpg)
 
 ### Head of Trading
 
-![](~/R/Applied Statistics/LBS-Crypto/themes/forty/static/img/people1.jpg)
+!["Head of Trading"](/img/people1.jpg)
 
 ### Head of Technology Labs
 
-![](~/R/Applied Statistics/LBS-Crypto/themes/forty/static/img/people2.jpg)
+!["Head of Technology Labs"](/img/people2.jpg)
 
 ### Head of Partnerships
 
-![](~/R/Applied Statistics/LBS-Crypto/themes/forty/static/img/people3.jpg)
-
-```{r statistics, echo=FALSE, out.width="60%"}
-# knitr::include_graphics("/img/blogs/statistics.jpg", error = FALSE)
-```
-
+!["Head of Partnerships"](/img/people3.jpg)
 
 

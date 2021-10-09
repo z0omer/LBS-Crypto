@@ -17,7 +17,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Our Events team will cover the following topics this academic year. Details TBA
 
-### 1. Blockchain 101 - an introduction to bitcoin, ethereum and more!
+### 1. Blockchain 101 
+
+An introduction to bitcoin, ethereum and the technology underpinning them.
 
 ```{r rednotice, echo=FALSE, out.width="80%"}
 # knitr::include_graphics("/img/blogs/crypto.jpg", error = FALSE)
@@ -25,11 +27,15 @@ Our Events team will cover the following topics this academic year. Details TBA
 
 ### 2. Smart Contracts and DApps
 
+Learn about the power of smart contracts and the decentralized applications they enable.
+
 ```{r power, echo=FALSE, out.width="60%"}
 # knitr::include_graphics("/img/blogs/power.jpg", error = FALSE)
 ```
 
 ### 3. Web 3.0
+
+From the internet of user generated content (Web 2.0), to the internet of value (web 3.0). Where do we go from here?
 
 ```{r whynationsfail, echo=FALSE, out.width="60%"}
 # knitr::include_graphics("/img/blogs/whynationsfail.jpg", error = FALSE)
@@ -37,7 +43,11 @@ Our Events team will cover the following topics this academic year. Details TBA
 
 ### 4. NFTs
 
+Learn more about Non-Fungible-Tokens in our dedicated workshop series.
+
 ### 5. DAOs
+
+Learn more about the new way of collaborating through decentralized autonomous organisations. 
 
 ```{r statistics, echo=FALSE, out.width="60%"}
 # knitr::include_graphics("/img/blogs/statistics.jpg", error = FALSE)
