@@ -95,7 +95,7 @@ params:
       - image: digital.jpg
         subtitle: DAO's, NFTs, Smartcontracts and more
         title: Technology Labs
-        url: dao
+        url: blogs/technology
       - image: partners.jpg
         subtitle: Connecting the dots to achieve decentralization
         title: Industry Partners
