@@ -18,48 +18,60 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### President
 
-fig.align = 'center'
 
-!["President"](/img/people.jpg)
+![Clemens Scherf, President](/img/Clemens.jpg){width=250px}
 
 ### Vice President
 
-!["Vice President"](/img/Max.jpg)
+![Max Bräuninger, Vice President](/img/Max.jpg){width=250px}
+
 ### Treasury
 
-!["Carlos Saavedra, Treasury"](/img/Carlos.jpg)
+![Carlos Saavedra, Treasury](/img/Carlos.jpg){width=250px}
 
 
 ### Head of Events
 
-!["Kat Fore, Sr. Head of Events"](/img/Kat.jpg)
-!["Alexis Kok, Jr. Head of Events"](/img/James.jpg)
+![Kat Fore, Sr. Head of Events](/img/Kat.jpg){width=250px}
+
+
+![Alexis Kok, Jr. Head of Events](/img/Alexis.jpg){width=250px}
 
 ### Head of Marketing
 
-!["Neha Bhasin, Sr. Head of Marketing"](/img/Neha.jpg)
-!["James Sanderson, Jr. Head of Marketing"](/img/James.jpg)
+![Neha Bhasin, Sr. Head of Marketing](/img/Neha.jpg){width=250px}
+
+
+![James Sanderson, Jr. Head of Marketing](/img/James.jpg){width=250px}
 
 ### Head of Research
 
-!["Alex Kearney, Sr. Head of Research"](/img/Alex.jpg)
-!["Bo Zhang, Jr. Head of Research"](/img/people1.jpg)
+![Alex Kearney, Sr. Head of Research](/img/Alex.jpg){width=250px}
+
+
+![Bo Zhang, Jr. Head of Research](/img/people1.jpg){width=250px}
 
 
 ### Head of Trading
 
-!["Zervaan Borok, Sr. Head of Trading"](/img/Zervaan.jpg)
-!["Lukas Bierfreund, Jr. Head of Trading"](/img/Lukas.jpg)
+![Zervaan Borok, Sr. Head of Trading](/img/Zervaan.jpg){width=250px}
+
+
+![Lukas Bierfreund, Jr. Head of Trading](/img/Lukas.jpg){width=250px}
 
 
 ### Head of Technology Labs
 
-!["Daria Saji, Sr. Head of Technology Labs"](/img/Daria.jpg)
-!["Jose Laffitte, Jr. Head of Technology Labs"](/img/Jose.jpg)
+![Daria Saji, Sr. Head of Technology Labs](/img/Daria.jpg){width=250px}
+
+
+![Jose Laffitte, Jr. Head of Technology Labs](/img/Jose.jpg){width=250px}
 
 ### Head of Partnerships
 
-!["Alexis Kok, Sr. Head of Partnerships"](/img/Alexis.jpg)
-!["Raghav Mehta, Jr. Head of Partnerships"](/img/Raghav.jpg)
+![Alexis Kok, Sr. Head of Partnerships](/img/Alexis.jpg){width=250px}
+
+
+![Raghav Mehta, Jr. Head of Partnerships](/img/Raghav.jpg){width=250px}
 
 
