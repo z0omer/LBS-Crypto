@@ -24,30 +24,42 @@ fig.align = 'center'
 
 ### Vice President
 
-!["Vice President"](/img/people2.jpg)
+!["Vice President"](/img/Max.jpg)
+### Treasury
+
+!["Carlos Saavedra, Treasury"](/img/Carlos.jpg)
+
 
 ### Head of Events
 
-!["Head of Events"](/img/people1.jpg)
+!["Kat Fore, Sr. Head of Events"](/img/Kat.jpg)
+!["Alexis Kok, Jr. Head of Events"](/img/James.jpg)
 
 ### Head of Marketing
 
-!["Head of Marketing"](/img/people3.jpg)
+!["Neha Bhasin, Sr. Head of Marketing"](/img/Neha.jpg)
+!["James Sanderson, Jr. Head of Marketing"](/img/James.jpg)
 
 ### Head of Research
 
-!["Head of Research"](/img/people.jpg)
+!["Alex Kearney, Sr. Head of Research"](/img/Alex.jpg)
+!["Bo Zhang, Jr. Head of Research"](/img/people1.jpg)
+
 
 ### Head of Trading
 
-!["Head of Trading"](/img/people1.jpg)
+!["Zervaan Borok, Sr. Head of Trading"](/img/Zervaan.jpg)
+!["Lukas Bierfreund, Jr. Head of Trading"](/img/Lukas.jpg)
+
 
 ### Head of Technology Labs
 
-!["Head of Technology Labs"](/img/people2.jpg)
+!["Daria Saji, Sr. Head of Technology Labs"](/img/Daria.jpg)
+!["Jose Laffitte, Jr. Head of Technology Labs"](/img/Jose.jpg)
 
 ### Head of Partnerships
 
-!["Head of Partnerships"](/img/people3.jpg)
+!["Alexis Kok, Sr. Head of Partnerships"](/img/Alexis.jpg)
+!["Raghav Mehta, Jr. Head of Partnerships"](/img/Raghav.jpg)
 
 
