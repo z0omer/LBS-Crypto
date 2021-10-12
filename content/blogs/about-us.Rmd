@@ -49,7 +49,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ![Alex Kearney, Sr. Head of Research](/img/Alex.jpg){width=250px}
 
 
-![Bo Zhang, Jr. Head of Research](/img/people.jpg){width=250px}
+![Bo Zhang, Jr. Head of Research](/img/Bo.jpg){width=250px}
 
 
 ### Head of Trading
