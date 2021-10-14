@@ -44,7 +44,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![James Sanderson, Jr. Head of Marketing](/img/James.jpg){width=250px}
 
-### Head of Research
+### Head of Research 
 
 ![Alex Kearney, Sr. Head of Research](/img/Alex.jpg){width=250px}
 
