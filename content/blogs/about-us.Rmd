@@ -35,7 +35,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ![Kat Fore, Sr. Head of Events](/img/Kat.jpg){width=250px}
 
 
-![Alexis Kok, Jr. Head of Events](/img/Alexis.jpg){width=250px}
+![Pushpendra Dwivedi, Jr. Head of Events](/img/Pushpendra.jpg){width=250px}
 
 ### Head of Marketing
 
