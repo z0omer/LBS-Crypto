@@ -3,7 +3,7 @@ title: "Events"
 date: '2017-10-31T21:28:43-05:00'
 description: ''
 draft: no
-image: 
+image: null
 keywords: ''
 slug: events
 categories:
@@ -14,6 +14,23 @@ categories:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+## LBS Blockchain Association Kick-off: Sign-Ups Open! 
+
+**Time: Tuesday, Nov. 30 @ 7:15 PM** 
+[Sign-up Link](https://www.eventbrite.co.uk/e/lbs-blockchain-association-2021-kick-off-tickets-211665877337)
+
+Are you interested in learning more about Blockchain or Crypto? Or considering a career in Web 3.0? Look no further ✨
+
+The LBS Blockchain Association aims to make blockchain and crypto accessible to all. We've got a great roster of events & initiatives on deck for the year and are looking to build out the team behind it! 
+
+Come learn more about what we do & the roles we're looking to fill. 
+
+Note - you don't need to be a blockchain superstar to join us, blockchain newbies are very welcome.
+
+**Presentation will be followed by drinks at the Windsor!**
+
+## Upcoming Events
 
 Our Events team will cover the following topics this academic year. Details TBA
 
