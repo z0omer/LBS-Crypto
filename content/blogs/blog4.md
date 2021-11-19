@@ -20,4 +20,5 @@ Reach out to us to tap into our network of talents spanning 157 countries who ar
 Contact Us:
 
 Alexis Kok, Senior Head of Partnerships, akok.mim2022@london.edu 
+
 Raghav Mehta, Junior Head of Partnerships, rmehta.mam2022@london.edu 
