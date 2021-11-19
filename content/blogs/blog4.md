@@ -14,4 +14,3 @@ categories:
 ---
 
 Reach out to us, if you would like to apply for our partners programme!
-![Flyer](/img/partnerships/Partnerships_Flyer.jpg?raw=true "Flyer")
