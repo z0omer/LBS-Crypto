@@ -22,8 +22,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **Reach out to us:**
 
-Zervaan Borok, Senior. Head of Trading, zborok.mam2022@london.edu
+Zervaan Borok, Senior Head of Trading, zborok.mam2022@london.edu
 
-Lukas Bierfreund, Jr. Head of Trading, lukasb.mmiepaut21@london.edu
+Lukas Bierfreund, Junior Head of Trading, lukasb.mmiepaut21@london.edu
   
  
