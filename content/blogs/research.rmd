@@ -17,7 +17,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Bockchain 101
 
-![Blockchaincoin101](/img/research/Blockchain101.jpg){width=750px}
+![](/img/research/Blockchain101.jpg){width=750px}
+
+
 You may have heard the term blockchain before, and rightly so you might be confused by it. This explainer will give you a basic introduction to blockchain technology and how it could change the world.  
 
 #### What is a blockchain?
@@ -42,7 +44,10 @@ Blockchain technology is still in its nascent phase, it hasn’t reached mass ad
  
 ## Bitcoin 101
 
-![Bitcoin101](/img/research/Bitcoin101.jpg){width=750px}
+![](/img/research/Bitcoin101.jpg){width=750px}
+
+
+
 In our last instalment, we talked about the blockchain and how it can enable trust-less, efficient and secure transfer of data through the use of a decentralised computing network. The blockchain has spawned a number of applications, one of which is the cryptocurrency known as Bitcoin.  
 
 Bitcoin is a decentralised digital currency - it uses blockchain technology to record a list of transactions in a distributed ledger. This type of currency is commonly called a cryptocurrency as it uses cryptography to keep market integrity and security. It was created in 2009 by a pseudo-anonymous programmer who named herself/himself/themselves Satoshi Nakamoto. There are only 21 million Bitcoins that will ever exist. However, there are only about 18.9 million in circulation currently with the rest having yet to be “mined”. It is worth noting that out of the 18.9 million in circulation, 3-4 million are most likely “lost”. As of writing this article, a single Bitcoin’s is worth approximately $65,000 USD, up from around $13,500 just 12 months earlier in November 2020.  
@@ -64,7 +69,10 @@ It is worth noting that there are other cryptographic consensus mechanisms, for 
 
 ## Ethereum 101
 
-![Ethereum101](/img/research/Ethereum101.jpg){width=750px}
+![](/img/research/Ethereum101.jpg){width=750px}
+
+
+
 #### What is Ethereum? 
 
 Simply put, if Bitcoin is the currency of the future, Ethereum was designed to be the internet of the future. It's a decentralized network that enables the use of smart contracts – i.e. programs that are stored on a blockchain that are executed when a set of conditions are met. Because of this smart contract feature, Ethereum is a blockchain on top of which decentralized applications, or dapps (not dabs), can be built (think of Ethereum in its current state almost as the Apple app store). These dapps can range from lending (AAVE), to video streaming (Livepeer), to art creation (most NFTs are on Ethereum). Because of the smart contract functionality, most of these dapps aren’t reliant on individuals to run their daily processes. They just follow a set of programmable rules, and generally operate independently of a third party intermediary. Interacting with these dapps though can often require the use of Ethereum’s native cryptocurrency, Ether. Ethereum, like Bitcoin, is currently a Proof of Work network. However, future upgrades should see this blockchain shift towards a Proof of Stake network (to be discussed in more depth later).  

@@ -16,7 +16,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-We will host crypto trading 101 workshops and more. Stay tuned!
+#### We will host crypto trading 101 workshops and more. Stay tuned!
+
+
 
 **Reach out to us:**
 
