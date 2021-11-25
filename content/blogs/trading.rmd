@@ -1,0 +1,27 @@
+---
+title: "Trading"
+date: '2017-10-31T21:28:43-05:00'
+description: ''
+draft: no
+image: null
+keywords: ''
+slug: trading
+categories:
+- ''
+- ''
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+We will host crypto trading 101 workshops and more. Stay tuned!
+
+**Reach out to us:**
+
+Zervaan Borok, Senior. Head of Trading, zborok.mam2022@london.edu
+
+Lukas Bierfreund, Jr. Head of Trading, lukasb.mmiepaut21@london.edu
+  
+ 

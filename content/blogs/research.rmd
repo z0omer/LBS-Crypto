@@ -1,0 +1,101 @@
+---
+title: "Research"
+date: '2017-10-31T21:28:43-05:00'
+description: ''
+draft: no
+image: null
+keywords: ''
+slug: research
+categories:
+- ''
+- ''
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Bockchain 101
+
+![Blockchaincoin101](/img/research/Blockchain101.jpg){width=750px}
+You may have heard the term blockchain before, and rightly so you might be confused by it. This explainer will give you a basic introduction to blockchain technology and how it could change the world.  
+
+#### What is a blockchain?
+
+Blockchain is a specific type of database. It differs from a typical database in the way it stores information; blockchains store data in blocks that are then chained together in chronological order, creating, as the name suggests: a blockchain. As new data comes in it is entered into a fresh block. The most common form of this data is what is called a distributed ledger which records every transaction that is made. The distributed nature of the blockchain comes from the fact that every computer which is connected to the network will have a copy of the ledger. This property is a major advantage over traditional technology as it makes it almost impossible to hack, change, or delete transaction details when they are entered. Once a new block is added to the chain, the majority of users of the network would have to agree to change it before a change can be made. On a network with hundreds of thousands of participants, this is nearly impossible. This property also means that there is no central authority or entity which controls the ledger, which again adds to the security of the network. This removes the risk that, for example, you’ll lose your data if a tornado wipes out the data centre your data is in, or if a country suddenly decides to clamp down on internet privileges for its citizens. All these features mean that blockchains have the ability to create secure, trust-less and efficient forms of interactions. The applications of which are rapidly expanding. 
+
+#### Blockchains and cryptocurrency:
+
+You may have also heard the terms ‘cryptocurrency’, ‘Bitcoin’, and ‘Ethereum’ being thrown around in connection with blockchains. This is because the technology which underpins and makes cryptocurrencies (such as Bitcoin and Ethereum) possible is blockchain technology. For Bitcoin, this blockchain is just a specific type of database that stores every Bitcoin transaction ever made in a ledger. In Bitcoin’s case, and unlike most databases, these computers are not all under one roof, and each computer or group of computers is operated by a unique individual or group of individuals. In a blockchain, each node has a full record of the data that has been stored on the blockchain since its inception. For Bitcoin, the data is the entire history of all Bitcoin transactions.  
+
+#### Blockchain is more than just cryptocurrency  
+
+Blockchain technology is also exciting because it has many uses beyond cryptocurrency. Blockchains are being used to explore medical research, improve the accuracy of healthcare records, streamline supply chains, and so much more. Currently, there is a vast variety of blockchain-based projects looking to implement blockchain in ways to help society other than just recording transactions. One good example is that of blockchain being used as a way to vote in democratic elections. The nature of blockchain’s immutability means that fraudulent voting would become far more difficult to occur. The financial sector is also ripe for disruption. Banks rely on outdated and legacy IT and settlement systems and blockchains have the ability to make them more efficient or replace them entirely. Applications such as Decentralised Finance (DeFi) and decentralised lending are already proving to be exogenous threats to traditional banking business models.  
+There are other applications of blockchains going on everywhere. Even in London, you can see firms starting to adopt blockchain into their practices: 
+British Airway using vChain to streamline security check process 
+Co-op using blockchain to track food sustainability 
+RBS and Barclays using blockchain to streamline real estate transactions 
+ 
+#### What does this mean for you? 
+Blockchain technology is still in its nascent phase, it hasn’t reached mass adoption yet. However, a wave of adoption is coming. Not only does this have the potential to revolutionise the way we interact with financial systems, conduct elections, store health records, but it also means that for students there will be a new industry which will be looking to attract highly skilled individuals to create applications thatcould change the world. 
+
+ 
+## Bitcoin 101
+
+![Bitcoin101](/img/research/Bitcoin101.jpg){width=750px}
+In our last instalment, we talked about the blockchain and how it can enable trust-less, efficient and secure transfer of data through the use of a decentralised computing network. The blockchain has spawned a number of applications, one of which is the cryptocurrency known as Bitcoin.  
+
+Bitcoin is a decentralised digital currency - it uses blockchain technology to record a list of transactions in a distributed ledger. This type of currency is commonly called a cryptocurrency as it uses cryptography to keep market integrity and security. It was created in 2009 by a pseudo-anonymous programmer who named herself/himself/themselves Satoshi Nakamoto. There are only 21 million Bitcoins that will ever exist. However, there are only about 18.9 million in circulation currently with the rest having yet to be “mined”. It is worth noting that out of the 18.9 million in circulation, 3-4 million are most likely “lost”. As of writing this article, a single Bitcoin’s is worth approximately $65,000 USD, up from around $13,500 just 12 months earlier in November 2020.  
+
+#### The structure of Bitcoin:
+
+As mentioned, Bitcoin is a decentralised digital currency, this means that its network is essentially a system of computers located at different points around the globe. These computers are referred to as “miners”. Each of these computers has a copy of Bitcoin’s ledger of transactions and each works to add new blocks to the chain by solving computationally intensive procedures. The miner that is able to add a new block to the chain is rewarded. Zooming out, Bitcoin is a public ledger which means anyone can view the list of transactions.  
+
+#### Purpose of Bitcoin:
+Bitcoin’s original purpose was that of a payment network - a way to send money globally with minimal cost away from an intermediary like a bank. Its decentralised nature meant that government interference would be limited as well, resulting in a true currency of the people. However, as cryptocurrency and blockchain technology have evolved, there have been more efficient payment networks created. Despite this, there has been adoption of Bitcoin at the corporate and government level, most notably amongst companies like Microstrategy and Tesla and with El Salvador.
+Bitcoin’s other purpose is as a store of value. Since there is a fixed supply of Bitcoin (21 million) which can be mined and given that the pace of mining is reduced every few years, holding demand constant, this should result in a consistent increase in price over time. In other words, this should allow Bitcoin to act as an inflation hedge. This has drawn comparisons to gold, which also has a theoretically limited supply and has historically been viewed as an inflation hedge.  
+How miners work 
+You may have heard, and been confused by, the term “miner” in relation to Bitcoin. Bitcoin relies on a computing concept called “Proof of Work” or PoW. PoW blockchains (such as Bitcoin) are secured and verified by virtual miners around the world racing to be the first to solve a math puzzle. The winner gets to update the blockchain with the latest verified transactions and is rewarded by the network with a predetermined amount of crypto. Because larger computing power translates to greater chances of success, miners typically run large mining farms with the latest technology available (hence the recent semi-conductor chip shortage).  
+As a result of the Bitcoin mining process, miners are crucial to the integrity and security of the network. As the value of a cryptocurrency grows, more miners are subsequently incentivized to join the network, thereby increasing its power and security. This, through a combination of both decentralization and an increase in difficulty to make changes to previous data, increases the power and security of the network. As the blockchain grows and the number of miners increase, it becomes impractical for any individual or group to meddle with a valuable cryptocurrency’s blockchain. Therefore, in large part, good blockchain projects are viewed as unhackable.  
+
+Whenever 210,000 blocks are mined, or approximately every four years, an event called a Bitcoin “halving” occurs. This is when the reward for mining bitcoin transactions is cut in half. As a result, this cuts in half Bitcoin's inflation rate and the rate at which new bitcoins enter circulation. Since this tends to restrict supply of Bitcoin, it has historically resulted in upwards pressure on the price.  
+It is worth noting that there are other cryptographic consensus mechanisms, for example – Proof of Stake which will be used by Ethereum once Ethereum 2.0 is released. However, these will be covered in future pieces.  
+
+
+## Ethereum 101
+
+![Ethereum101](/img/research/Ethereum101.jpg){width=750px}
+#### What is Ethereum? 
+
+Simply put, if Bitcoin is the currency of the future, Ethereum was designed to be the internet of the future. It's a decentralized network that enables the use of smart contracts – i.e. programs that are stored on a blockchain that are executed when a set of conditions are met. Because of this smart contract feature, Ethereum is a blockchain on top of which decentralized applications, or dapps (not dabs), can be built (think of Ethereum in its current state almost as the Apple app store). These dapps can range from lending (AAVE), to video streaming (Livepeer), to art creation (most NFTs are on Ethereum). Because of the smart contract functionality, most of these dapps aren’t reliant on individuals to run their daily processes. They just follow a set of programmable rules, and generally operate independently of a third party intermediary. Interacting with these dapps though can often require the use of Ethereum’s native cryptocurrency, Ether. Ethereum, like Bitcoin, is currently a Proof of Work network. However, future upgrades should see this blockchain shift towards a Proof of Stake network (to be discussed in more depth later).  
+ 
+#### How does the Ethereum blockchain work today?  
+
+Similar to Bitcoin, Ethereum is a decentralized network. Unlike Bitcoin, which is usually just thought of as a ledger, Ethereum can be thought of more as a cloud based computer. The name of this computer is called the Ethereum Virtual Machine. Again, similar to Bitcoin, this machine is run on nodes (a participant on the blockchain which keeps track of all the transactions since inception of the blockchain) all around the world, thereby insuring its decentralized nature and its security. Also like Bitcoin, all of the transactions on Ethereum are public as well. Developers generally build dapps on Ethereum through the EVM using the programming language known as Solidity. Execution of a smart contract within a dapp requires a transactional payment known as gas. This is ultimately paid to the miner who validates the transaction.  
+ 
+#### What are the role of miners? 
+
+Given that Ethereum, like Bitcoin, currently follows a Proof of Work mechanism, miners within the Ethereum ecosystem play a very similar role to those within Bitcoin’s. As with almost all cryptocurrencies, transactions that occur on the chain get stored into blocks. Miners essentially have to validate these blocks through solving a similar math problem (you can think of these blocks as having a lock. Miners have to guess the right 64 digit code, or the key, to unlock, and thereby verify, these blocks). Once the block is verified, it gets added to everyone’s ledger across the entire network.  
+The main problem with this current model is that because miners get paid in gas, miners are incentivized to validate the transactions with the highest gas fees first. This means that users who want to get their transactions done first will bid up the gas fees, resulting in rather expensive transactions. Ethereum 2.0 will be looking to solve this problem.  
+ 
+#### Problems with Ethereum today? 
+
+Because Ethereum is built on a Proof of Work algorithm, it’s inherently slower and more expensive to run. Ethereum can currently run only 20 transactions per second (tps). This is compared to Visa, which currently runs 1,700 tps. Therefore, it’s impossible for large groups of people to use Ethereum in its current state. 
+In addition, because of the miner reward mechanism (another byproduct of Proof of Work), it’s also expensive to use. This should also be resolved with the switch to Proof of Stake.   
+ 
+#### Future of Ethereum? 
+
+The next step for Ethereum is to upgrade to version 2.0, a process which has been painfully slow. This will convert Ethereum from Proof of Work to Proof of Stake as well as fully implement sharding. Sharing essentially splits the transactions across multiple different blockchains. Once this is done, instead of every node running the entire network, different nodes can run different sections of the network based on processing power of the node. This results in a significantly less congested network. The combination of these two updates will result in a cheaper and faster network.  
+
+
+
+
+**[Stay up to date with our Research on Medium](https://medium.com/@lbsblockchain)**
+
+**Reach out to us:**
+
+Alex Kearney, Senior. Head of Research, akearney.mba2023@london.edu
+
+Bo Zhang, Junior. Head of Research, bzhang.mba2023@london.edu
+  
+ 

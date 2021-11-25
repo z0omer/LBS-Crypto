@@ -1,11 +1,9 @@
 ---
-title: "Partners"
-date: '2017-10-31T22:42:51-05:00'
-description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna
-  sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa
-  sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem
-  consequat tincidunt. Vivamus et sagittis tempus.
+title: "Partnerships"
+date: '2017-10-31T21:28:43-05:00'
+description: ''
 draft: no
+image: null
 keywords: ''
 slug: partners
 categories:
@@ -13,11 +11,15 @@ categories:
 - ''
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
 LBS Blockchain Association offers job board postings, networking evenings, career fairs, socials and events presence, newsletter features, and more! 
 
 Reach out to us to tap into our network of talents spanning 157 countries who are equipped with the financial and technical knowledge to succeed in the industry as future leaders 
 
-Contact Us:
+**Contact Us:**
 
 Alexis Kok, Senior Head of Partnerships, akok.mim2022@london.edu 
 

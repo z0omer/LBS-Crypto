@@ -1,0 +1,39 @@
+---
+title: "Technology"
+date: '2017-10-31T21:28:43-05:00'
+description: ''
+draft: no
+image: null
+keywords: ''
+slug: technology
+categories:
+- ''
+- ''
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Projects planned for the year:
+
+### Decentralised Autonomous Organisation creation:
+
+We will create a DAO for the LBS Blockchain Organisation on Ethereum blockchain
+
+### Workshops
+
+We are planning to host Tech workshops focussed on coding smart contracts, DAO creation and many more!
+
+### Events
+
+We will conduct several Blockchain events in collaboration with companies and other Institutions! 
+
+
+**Reach out to us:**
+
+Daria Saji, Senior. Head of Technology, dsajinair.mim2022@london.edu
+
+Jose Laffitte, Jr. Head of Technology, jlaffitte.mam2022@london.edu
+ 
+ 
