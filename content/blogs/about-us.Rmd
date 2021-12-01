@@ -88,7 +88,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 [LinkedIn Profile](https://www.linkedin.com/in/alex-kearney/)
 
-[Twitter Profile]()
+[Twitter Profile](https://twitter.com/alexgkearney)
 
 
 ![**Bo Zhang, Junior Head of Research**](/img/Bo.jpg){width=250px}
@@ -114,7 +114,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 [LinkedIn Profile](https://www.linkedin.com/in/lukas-bierfreund/)
 
-[Twitter Profile]()
+[Twitter Profile](https://twitter.com/lukasbfreund)
 
 
 ### Head of Technology Labs
@@ -131,7 +131,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 [LinkedIn Profile](https://www.linkedin.com/in/joseilaffitte/)
 
-[Twitter Profile]()
+[Twitter Profile](https://twitter.com/JoseLaffitte1)
 
 ### Head of Partnerships
 

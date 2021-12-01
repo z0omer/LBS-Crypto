@@ -43,7 +43,7 @@ params:
     social:
       - icon: fa-twitter
         label: Twitter
-        url: https://www.twitter.com/lbscrypto
+        url: https://www.twitter.com/lbsblockchain
       # - icon: fa-facebook
       #   label: Facebook
       #   url: https://www.facebook.com
@@ -64,7 +64,7 @@ params:
         url: '#'
     button2:
       - name: Twitter
-        url: https://www.twitter.com/lbscrypto
+        url: https://www.twitter.com/lbsblockchain
     links:
       # - name: Home
       #   url: '#'
@@ -109,4 +109,4 @@ params:
     enable: yes
     subtitle: "We want to foster a community at LBS to make blockchain approachable, understandable and prepare our peers for the opportunities of the Web 3.0  \r\n "
     title: Our mission
-    url: https://twitter.com/lbscrypto
+    url: https://twitter.com/lbsblockchain
