@@ -17,7 +17,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Check out these Blockchain articles by our Research Team:
 
-[Blockchain 101](.\\research\blockchain101.html)
+[Blockchain 101](https://medium.com/@lbsblockchain/blockchain-101-4c0bae57dfa7)
+
+[Bitcoin 101](https://medium.com/@lbsblockchain/bitcoin-101-6f284bd69355)
+
+[Ethereum 101](https://medium.com/@lbsblockchain/ethereum-101-d8992eaef357)
 
 **[Stay up to date with our Research on Medium](https://medium.com/@lbsblockchain)**
 
