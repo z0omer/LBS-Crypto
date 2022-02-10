@@ -15,32 +15,47 @@ categories:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Interested in a career in blockchain? Come hear from TriliTech on December 7th! ✨
+## 🚀 Workshop Alert 🚀 ✨
 
-[Click here to register!](https://london-csm.symplicity.com/students/index.php?ss=is&_ksl=1&mode=form&s=event&id=55d3ae74777c2cccd9c71d1e6aa15508)
+## LBS Blockchain Association x LBS TMC present: "Into the Hyperverse," a Web 3.0 Workshop hosted by Decentology
 
-**About Trilitech:**
-TriliTech is a Tezos blockchain R&D and Entrepreneur Hub based in London, UK. Our objective is to further develop and catalyse unique opportunities for the Tezos ecosystem, both on and off-chain. We are building a business development and adoption team to lead the global promotion of the Tezos blockchain, a leading layer 1 protocol launched in 2018. 
+🗓 Date & Time: Thursday, February 17 @ 5 PM (location TBC)
+‼️ Application Deadline: Sunday, February 6 (details on Eventbrite) 
+📲 [Registration Link](https://www.eventbrite.co.uk/e/into-the-hyperverse-a-web-30-workshop-tickets-256817908277)
 
-Tezos is an open-source platform that addresses key barriers facing blockchain adoptions for assets and applications backed by a global community of validators, researchers and builders. Our current corporate partners include Redbull Racing, McLaren, Ubisoft, Societe Generale and many others. Projects built on the Tezos blockchain include Hic Et Nuc, Objkt. com, Interpop, OneOf and Kukai.
+**ABOUT THE EVENT**
+
+“Into the Hyperverse" is a session for individuals interested in a Web 3.0 career presented by Nik Kalyani and Samina Kabir of Decentology, a Silicon Valley-based crypto company.
+
+In this session, Kalyani and Kabir will start by introducing you to crypto fundamentals of web architecture, blockchain, cryptography, smart contracts, and decentralized applications ("dapps").
+
+Next, you'll get a glimpse into the future of composable dapps by journeying into the Hyperverse, an open marketplace for "smart modules," which are like Lego blocks for building dapps.
+
+Finally, Kalyani and Kabir will round it out by building a simple dapp LIVE, that'll give you deep insights into how dapps work and what skills you'll need to build for the Hyperverse.
+
+Join us in this exciting session bringing nothing other than a great attitude, and a desire to immerse yourself into the exciting new world of crypto. You'll leave invigorated with all the knowledge you need to venture into the Hyperverse ✨
+
+_Please note: this event is open to the LBS community only. We thank you, in advance, for your understanding. Additionally, all LBS students are encouraged to apply; however, priority will be given to those with prior coding experience and/ or background in math and computer science._
 
 
-## LBS Blockchain Association Kick-Off: Sign-Ups Open!
+## 🚀 Employer Presentation & Networking Session 🚀 
 
-Time: Tuesday, Nov. 30 @ 7:15 PM
+## Interested in a career in blockchain? Come hear from TriliTech on February 14th ✨
 
-[Click to Sign-Up!](https://www.eventbrite.co.uk/e/lbs-blockchain-association-2021-kick-off-tickets-211665877337) 
+Date & Time: Monday, February 14th @ 11:15 AM
+[Register here](https://london-csm.symplicity.com/students/?s=event&ss=is&mode=form&id=ab14bc07d7cde0030f1d5e6e6ecb047e) 
 
-Are you interested in learning more about Blockchain or Crypto? Or considering a career in Web 3.0? Look no further ✨ The LBS Blockchain Association aims to make Blockchain and Crypto accessible to all. We've got a great roster of events & initiatives on deck for the year and are looking to build out the team behind it! Come learn more about what we do & the roles we're looking to fill. 
-
-**_Presentation will be followed by drinks at the Windsor._**
+**ABOUT TRILITECH**
+ 
+TriliTech is a Tezos blockchain R&D and Entrepreneur Hub based in London, UK. Its objective is to further develop and catalyse unique opportunities for the Tezos ecosystem, both on and off-chain. TriliTech is building a business development & adoption team to lead global promotion of the Tezos blockchain, a leading layer 1 protocol launched in 2018. 
+Tezos is an open-source platform that addresses key barriers facing blockchain adoptions backed by a global community of validators, researchers and builders. Our current corporate partners include Redbull Racing, McLaren, Ubisoft, Societe Generale and many others.
 
 
 ## Upcoming Events:
 
 Our Events team will cover the following topics this academic year. Details TBA
 
-### 1. Blockchain 101 
+### 1. Blockchain 101 series
 
 
 An introduction to bitcoin, ethereum and the technology underpinning them.
@@ -57,7 +72,7 @@ Learn about the power of smart contracts and the decentralized applications they
 
 From the internet of user generated content (Web 2.0), to the internet of value (web 3.0). Where do we go from here?
 
-### 4. NFTs
+### 4. NFT workshops
 
 
 Learn more about Non-Fungible-Tokens in our dedicated workshop series.
