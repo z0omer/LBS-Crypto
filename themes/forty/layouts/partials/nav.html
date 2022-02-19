@@ -21,5 +21,11 @@
             {{ range .Site.Params.Navigation.button2 }}
                 <li><a href="{{ .url | absURL}}" class="button fit">{{ .name }}</a></li>
             {{ end }}
+            {{ range .Site.Params.Navigation.button3 }}
+                <li><a href="{{ .url | absURL}}" class="button fit">{{ .name }}</a></li>
+            {{ end }}
+            {{ range .Site.Params.Navigation.button4 }}
+                <li><a href="{{ .url | absURL}}" class="button fit">{{ .name }}</a></li>
+            {{ end }}
         </ul>
     </nav>

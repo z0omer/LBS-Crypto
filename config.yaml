@@ -23,9 +23,9 @@ params:
       - email: lbsblockchain@protonmail.com
         title: Email
     enable: yes
-    phone:
-      - phone: https://t.me/joinchat/TmY0VjZsnlcxM2Yy
-        title: Telegram
+    # phone:
+    #   - phone: https://t.me/joinchat/TmY0VjZsnlcxM2Yy
+    #     title: Telegram
   custom_css: []
   custom_js: []
   description: Your description
@@ -65,6 +65,12 @@ params:
     button2:
       - name: Twitter
         url: https://www.twitter.com/lbsblockchain
+    button3:
+      - name: Telegram
+        url: https://t.me/joinchat/TmY0VjZsnlcxM2Yy
+    button4:
+      - name: Medium
+        url: https://medium.com/@lbsblockchain
     links:
       # - name: Home
       #   url: '#'
