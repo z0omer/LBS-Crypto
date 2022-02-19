@@ -19,13 +19,13 @@
                 <li><a href="{{ .url | absURL}}" class="button special fit">{{ .name }}</a></li>
             {{ end }}
             {{ range .Site.Params.Navigation.button2 }}
-                <li><a href="{{ .url }}" target="_blank" class="button fit">{{ .name }}</a></li>
+                <li><a href="{{ .Site.Params.Navigation.button1.url }}" onclick="window.open('{{ .url }}', '_blank');" class="button fit">{{ .name }}</a></li>
             {{ end }}
             {{ range .Site.Params.Navigation.button3 }}
-                <li><a onclick="window.open('{{ .url }}', '_blank')" class="button fit">{{ .name }}</a></li>
+                <li><a href="{{ .Site.Params.Navigation.button1.url }}" onclick="window.open('{{ .url }}', '_blank');" class="button fit">{{ .name }}</a></li>
             {{ end }}
             {{ range .Site.Params.Navigation.button4 }}
-                <li><a href="{{ .url }}" onclick='window.open("{{ .url | absURL}}", "_blank")' class="button fit">{{ .name }}</a></li>
+                <li><a href="{{ .Site.Params.Navigation.button1.url }}" onclick="window.open('{{ .url }}', '_blank');" class="button fit">{{ .name }}</a></li>
             {{ end }}
         </ul>
     </nav>
