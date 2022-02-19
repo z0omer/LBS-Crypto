@@ -16,136 +16,138 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Meet our team
 
+## Executive Committee
+<div>
+<div align="left" style="display: inline-block; margin-right = 10">
 ### President
 
-
-![**Clemens Scherf, President**](/img/Clemens.jpg){width=250px}
+![**Clemens Scherf, President**](/img/Clemens.jpg){width=350px}
 
 [LinkedIn Profile](https://www.linkedin.com/in/Clemens-scherf/)
 
-[Twitter Profile](https://twitter.com/_clemens__)
 
+</div>
+<div align="center" style="display: inline-block; margin-right = 10px; margin-left=10px;">
 ### Vice President
 
-![**Max Bräuninger, Vice President**](/img/Max.jpg){width=250px}
-
+![**Max Bräuninger, Vice President**](/img/Max.jpg){width=350px}
 
 [LinkedIn Profile](https://www.linkedin.com/in/maxbraeuninger/)
 
-[Twitter Profile]()
 
-
+</div>
+<div align="right" style="display: inline-block">
 ### Treasury
 
-![**Carlos Saavedra, Treasury**](/img/Carlos.jpg){width=250px}
-
+![**Carlos Saavedra, Treasury**](/img/Carlos.jpg){width=350px}
 
 [LinkedIn Profile](https://www.linkedin.com/in/carlosnoesaavedra/)
 
-[Twitter Profile]()
 
+</div>
+</div>
 
+<div>
+<div align="left" style="display: inline-block">
 ### Head of Events
 
-![**Kat Fore, Senior Head of Events**](/img/Kat.jpg){width=250px}
-
+![**Kat Fore, Sr. Head of Events**](/img/Kat.jpg){width=350px}
 
 [LinkedIn Profile](https://www.linkedin.com/in/katharinafore/)
 
-[Twitter Profile]()
 
-
-![**Pushpendra Dwivedi, Junior Head of Events**](/img/Pushpendra.jpg){width=250px}
-
+</div>
+<div align="right" style="display: inline-block">
+![**Pushpendra Dwivedi, Jr. Head of Events**](/img/Pushpendra.jpg){height=350px}
 
 [LinkedIn Profile](https://www.linkedin.com/in/pushpendradwivedi/)
+</div>
+</div>
 
-[Twitter Profile]()
-
-
+<div>
+<div align="left" style="display: inline-block">
 ### Head of Marketing
 
-![**Neha Bhasin, Senior Head of Marketing**](/img/Neha.jpg){width=250px}
-
+![**Neha Bhasin, Sr. Head of Marketing**](/img/Neha.jpg){width=350px}
 
 [LinkedIn Profile](https://www.linkedin.com/in/nehabhasin/)
 
-[Twitter Profile]()
 
-
-![**James Sanderson, Junior Head of Marketing**](/img/James.jpg){width=250px}
-
+</div>
+<div align="right" style="display: inline-block">
+![**James Sanderson, Jr. Head of Marketing**](/img/James.jpg){width=350px}
 
 [LinkedIn Profile](https://www.linkedin.com/in/jamesoliversanderson/)
+</div>
+</div>
 
-[Twitter Profile]()
-
-
+<div>
+<div align="left" style="display: inline-block">
 ### Head of Research 
 
-![**Alex Kearney, Senior Head of Research**](/img/Alex.jpg){width=250px}
-
+![**Alex Kearney, Sr. Head of Research**](/img/Alex.jpg){width=350px}
 
 [LinkedIn Profile](https://www.linkedin.com/in/alex-kearney/)
 
-[Twitter Profile](https://twitter.com/alexgkearney)
 
-
-![**Bo Zhang, Junior Head of Research**](/img/Bo.jpg){width=250px}
-
+</div>
+<div align="right" style="display: inline-block">
+![**Bo Zhang, Jr. Head of Research**](/img/Bo.jpg){height=350px}
 
 [LinkedIn Profile](https://www.linkedin.com/in/bozhang7940/)
+</div>
+</div>
 
-[Twitter Profile]()
-
-
+<div>
+<div align="left" style="display: inline-block">
 ### Head of Trading
 
-![**Zervaan Borok, Senior Head of Trading**](/img/Zervaan.jpg){width=250px}
-
+![**Zervaan Borok, Sr. Head of Trading**](/img/Zervaan.jpg){width=350px}
 
 [LinkedIn Profile](https://www.linkedin.com/in/zervaan-borok-535b27195/)
 
-[Twitter Profile]()
 
-
-![**Lukas Bierfreund, Junior Head of Trading**](/img/Lukas.jpg){width=250px}
-
+</div>
+<div align="right" style="display: inline-block">
+![**Lukas Bierfreund, Jr. Head of Trading**](/img/Lukas.jpg){width=350px}
 
 [LinkedIn Profile](https://www.linkedin.com/in/lukas-bierfreund/)
 
-[Twitter Profile](https://twitter.com/lukasbfreund)
+</div>
+</div>
 
-
+<div>
+<div align="left" style="display: inline-block">
 ### Head of Technology Labs
 
-![**Daria Saji, Senior Head of Technology Labs**](/img/Daria.jpg){width=250px}
-
+![**Daria Saji, Sr. Head of Technology Labs**](/img/Daria.jpg){width=350px}
 
 [LinkedIn Profile](https://www.linkedin.com/in/dariasaji/)
 
-[Twitter Profile](https://twitter.com/dariasaji/)
 
-
-![**Jose Laffitte, Junior Head of Technology Labs**](/img/Jose.jpg){width=250px}
+</div>
+<div align="right" style="display: inline-block">
+![**Jose Laffitte, Jr. Head of Technology Labs**](/img/Jose.jpg){width=350px}
 
 [LinkedIn Profile](https://www.linkedin.com/in/joseilaffitte/)
+</div>
+</div>
 
-[Twitter Profile](https://twitter.com/JoseLaffitte1)
-
+<div>
+<div align="left" style="display: inline-block">
 ### Head of Partnerships
 
-![**Alexis Kok, Senior Head of Partnerships**](/img/Alexis.jpg){width=250px}
+![**Alexis Kok, Sr. Head of Partnerships**](/img/Alexis.jpg){width=350px}
 
 [LinkedIn Profile](https://www.linkedin.com/in/alexiskok/)
 
-[Twitter Profile]()
 
-
-![**Raghav Mehta, Junior Head of Partnerships**](/img/Raghav.jpg){width=250px}
+</div>
+<div align="right" style="display: inline-block">
+![**Raghav Mehta, Jr. Head of Partnerships**](/img/Raghav.jpg){width=350px}
 
 [LinkedIn Profile](https://www.linkedin.com/in/raghav-mehta-rvm/)
 
-[Twitter Profile]()
-
+</div>
+</div>
 
