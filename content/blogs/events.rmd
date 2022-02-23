@@ -15,40 +15,21 @@ categories:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## 🚀 Workshop Alert 🚀 ✨
+## 🚀 EVENT ALERT 🚀 
 
-## LBS Blockchain Association x LBS TMC present: "Into the Hyperverse," a Web 3.0 Workshop hosted by Decentology
+### New to blockchain? Want to learn more but don't know how? Say no more - come join us for Blockchain 101 next week ✨
 
-🗓 Date & Time: Thursday, February 17 @ 5 PM (location TBC)
-‼️ Application Deadline: Sunday, February 6 (details on Eventbrite) 
-📲 [Registration Link](https://www.eventbrite.co.uk/e/into-the-hyperverse-a-web-30-workshop-tickets-256817908277)
+Date: March 2, 2022 @ 7 PM 
+Location: LT10 (Sussex) 
+![Registration Link](https://www.eventbrite.co.uk/e/blockchain-101-tickets-274941937737)
 
-**ABOUT THE EVENT**
+#### ABOUT
 
-“Into the Hyperverse" is a session for individuals interested in a Web 3.0 career presented by Nik Kalyani and Samina Kabir of Decentology, a Silicon Valley-based crypto company.
+Join Carlos & Neha, current LBS students, to learn more about blockchain basics; specifically, what blockchain is, how it works (at a high level), where it exists, and how to get involved in the space. The first 20 - 30 minutes of the session will be a peer-led presentation; thereafter, the floor will be open for Q&A. 
 
-In this session, Kalyani and Kabir will start by introducing you to crypto fundamentals of web architecture, blockchain, cryptography, smart contracts, and decentralized applications ("dapps").
+This session is the first event in a series meant to help showcase the world of blockchain in bite-sized, easy-to-follow portions. Blockchain 101 is intended for those who are totally new to the tech, but all are welcome ☺️
 
-Next, you'll get a glimpse into the future of composable dapps by journeying into the Hyperverse, an open marketplace for "smart modules," which are like Lego blocks for building dapps.
-
-Finally, Kalyani and Kabir will round it out by building a simple dapp LIVE, that'll give you deep insights into how dapps work and what skills you'll need to build for the Hyperverse.
-
-Join us in this exciting session bringing nothing other than a great attitude, and a desire to immerse yourself into the exciting new world of crypto. You'll leave invigorated with all the knowledge you need to venture into the Hyperverse ✨
-
-_Please note: this event is open to the LBS community only. We thank you, in advance, for your understanding. Additionally, all LBS students are encouraged to apply; however, priority will be given to those with prior coding experience and/ or background in math and computer science._
-
-
-## 🚀 Employer Presentation & Networking Session 🚀 
-
-## Interested in a career in blockchain? Come hear from TriliTech on February 14th ✨
-
-Date & Time: Monday, February 14th @ 11:15 AM
-[Register here](https://london-csm.symplicity.com/students/?s=event&ss=is&mode=form&id=ab14bc07d7cde0030f1d5e6e6ecb047e) 
-
-**ABOUT TRILITECH**
- 
-TriliTech is a Tezos blockchain R&D and Entrepreneur Hub based in London, UK. Its objective is to further develop and catalyse unique opportunities for the Tezos ecosystem, both on and off-chain. TriliTech is building a business development & adoption team to lead global promotion of the Tezos blockchain, a leading layer 1 protocol launched in 2018. 
-Tezos is an open-source platform that addresses key barriers facing blockchain adoptions backed by a global community of validators, researchers and builders. Our current corporate partners include Redbull Racing, McLaren, Ubisoft, Societe Generale and many others.
+Any questions you'd like answered during the session? DM ![carlosnoesaavedra](https://t.me/carlosnoesaavedra) or ![Neha_Bhasin](https://t.me/Neha_Bhasin)
 
 
 ## Upcoming Events:
