@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Date: March 2, 2022 @ 7 PM 
 Location: LT10 (Sussex) 
-![Registration Link](https://www.eventbrite.co.uk/e/blockchain-101-tickets-274941937737)
+[Registration Link](https://www.eventbrite.co.uk/e/blockchain-101-tickets-274941937737)
 
 #### ABOUT
 
@@ -29,7 +29,7 @@ Join Carlos & Neha, current LBS students, to learn more about blockchain basics;
 
 This session is the first event in a series meant to help showcase the world of blockchain in bite-sized, easy-to-follow portions. Blockchain 101 is intended for those who are totally new to the tech, but all are welcome ☺️
 
-Any questions you'd like answered during the session? DM ![carlosnoesaavedra](https://t.me/carlosnoesaavedra) or ![Neha_Bhasin](https://t.me/Neha_Bhasin)
+Any questions you'd like answered during the session? DM [Carlos_noesaavedra](https://t.me/carlosnoesaavedra) or [Neha_Bhasin](https://t.me/Neha_Bhasin)
 
 
 ## Upcoming Events:
