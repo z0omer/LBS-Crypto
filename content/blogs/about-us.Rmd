@@ -49,7 +49,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <div>
 <div align="left" style="display: inline-block">
-### Head of Events
+## Events
 
 ![**Kat Fore, Sr. Head of Events**](/img/Kat.jpg){width=350px}
 
@@ -58,7 +58,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 </div>
 <div align="right" style="display: inline-block">
-![**Pushpendra Dwivedi, Jr. Head of Events**](/img/Pushpendra.jpg){height=350px}
+![**Pushpendra Dwivedi, Jr. Head of Events**](/img/Pushpendra.jpg){width=350px}
 
 [LinkedIn Profile](https://www.linkedin.com/in/pushpendradwivedi/)
 </div>
@@ -66,7 +66,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <div>
 <div align="left" style="display: inline-block">
-### Head of Marketing
+## Marketing
 
 ![**Neha Bhasin, Sr. Head of Marketing**](/img/Neha.jpg){width=350px}
 
@@ -83,7 +83,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <div>
 <div align="left" style="display: inline-block">
-### Head of Research 
+## Research 
 
 ![**Alex Kearney, Sr. Head of Research**](/img/Alex.jpg){width=350px}
 
@@ -92,7 +92,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 </div>
 <div align="right" style="display: inline-block">
-![**Bo Zhang, Jr. Head of Research**](/img/Bo.jpg){height=350px}
+![**Bo Zhang, Jr. Head of Research**](/img/Bo.jpg){width=350px}
 
 [LinkedIn Profile](https://www.linkedin.com/in/bozhang7940/)
 </div>
@@ -100,7 +100,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <div>
 <div align="left" style="display: inline-block">
-### Head of Trading
+## Trading
 
 ![**Zervaan Borok, Sr. Head of Trading**](/img/Zervaan.jpg){width=350px}
 
@@ -118,24 +118,33 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <div>
 <div align="left" style="display: inline-block">
-### Head of Technology Labs
+## Technology
 
-![**Daria Saji, Sr. Head of Technology Labs**](/img/Daria.jpg){width=350px}
+![**Daria Saji, Sr. Head of Technology**](/img/Daria.jpg){width=350px}
 
 [LinkedIn Profile](https://www.linkedin.com/in/dariasaji/)
 
 
 </div>
-<div align="right" style="display: inline-block">
-![**Jose Laffitte, Jr. Head of Technology Labs**](/img/Jose.jpg){width=350px}
+<div align="center" style="display: inline-block; margin-right = 10px; margin-left=10px;">
+![**Jose Laffitte, Jr. Head of Technology**](/img/Jose.jpg){width=350px}
 
 [LinkedIn Profile](https://www.linkedin.com/in/joseilaffitte/)
+
+
+</div>
+<div align="right" style="display: inline-block">
+![**Park Yeung, London Blockchain DAO Lead**](/img/Park.jpg){width=350px}
+
+[LinkedIn Profile](https://www.linkedin.com/in/park-yeung/)
+
+
 </div>
 </div>
 
 <div>
 <div align="left" style="display: inline-block">
-### Head of Partnerships
+## Partnerships
 
 ![**Alexis Kok, Sr. Head of Partnerships**](/img/Alexis.jpg){width=350px}
 
