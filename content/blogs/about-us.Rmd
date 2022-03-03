@@ -85,16 +85,24 @@ knitr::opts_chunk$set(echo = TRUE)
 <div align="left" style="display: inline-block">
 ## Research 
 
-![**Alex Kearney, Sr. Head of Research**](/img/Alex.jpg){width=350px}
+![**Alex Kearney, Co- Head of Research**](/img/Alex.jpg){width=350px}
 
 [LinkedIn Profile](https://www.linkedin.com/in/alex-kearney/)
 
 
 </div>
-<div align="right" style="display: inline-block">
-![**Bo Zhang, Jr. Head of Research**](/img/Bo.jpg){width=350px}
+<div align="center" style="display: inline-block; margin-right = 10px; margin-left=10px;">
+![**Bo Zhang, Jr. Co-Head of Research**](/img/Bo.jpg){width=350px}
 
 [LinkedIn Profile](https://www.linkedin.com/in/bozhang7940/)
+</div>
+
+<div align="right" style="display: inline-block">
+![**Advait(Leo) J, Co-Head of Research**](/img/Advait.jpg){width=350px}
+
+[LinkedIn Profile](https://www.linkedin.com/in/advait-leo-j-21b465bb/)
+
+
 </div>
 </div>
 
