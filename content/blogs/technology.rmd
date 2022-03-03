@@ -15,19 +15,27 @@ categories:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Projects planned for the year:
+## ✨  We are excited to announce the launch of our own  DAO!      
 
-### 1. Decentralised Autonomous Organisation:
+![**London Blockchain DAO**](/img/technology/DAO_Launch.jpg)
 
-We will create a DAO for the LBS Blockchain Organisation on Ethereum blockchain
+## Projects planned for the year 🚀 
+
+### 1. LBS Blockchain Hackathon
 
 ### 2. Workshops:
 
-We are planning to host Tech workshops focussed on coding smart contracts, DAO creation and many more!
+* How to Mint NFTs workshop
+* Basics of Coding in Blockchain workshop
 
-### 3. Events:
+### 3. LBS Blockchain Bootcamp
 
-We will conduct several Blockchain events in collaboration with companies and other Institutions! 
+### 4. Idea Hub and coding sessions:
+  
+We will provide a platform for LBS students to code and check the feasibility of their Blockchain start-up ideas
+
+
+
 
 
 **Reach out to us:**

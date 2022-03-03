@@ -15,31 +15,22 @@ categories:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## 🚀 EVENT ALERT 🚀 
+## 🚀 EVENT HIGHLIGHTS - BLOCKCHAIN 101 🚀 
 
-### New to blockchain? Want to learn more but don't know how? Say no more - come join us for Blockchain 101 next week ✨
+## The first session of our Blockchain 101 series hosted by Neha Bhasin and Carlos Saavedra✨
 
-Date: March 2, 2022 @ 7 PM 
-Location: LT10 (Sussex) 
-[Registration Link](https://www.eventbrite.co.uk/e/blockchain-101-tickets-274941937737)
+![**Blockchain 101- Basics of Blockchain**](/img/events/Blockchain101_Session1.jpg)
 
-#### ABOUT
-
-Join Carlos & Neha, current LBS students, to learn more about blockchain basics; specifically, what blockchain is, how it works (at a high level), where it exists, and how to get involved in the space. The first 20 - 30 minutes of the session will be a peer-led presentation; thereafter, the floor will be open for Q&A. 
-
-This session is the first event in a series meant to help showcase the world of blockchain in bite-sized, easy-to-follow portions. Blockchain 101 is intended for those who are totally new to the tech, but all are welcome ☺️
-
-Any questions you'd like answered during the session? DM [Carlos_noesaavedra](https://t.me/carlosnoesaavedra) or [Neha_Bhasin](https://t.me/Neha_Bhasin)
+In case you missed the event, or are just generally looking for a recap, check out the [debrief on Medium](https://medium.com/@lbsblockchain/blockchain-101-session-1-debrief-44418cb35552) that contains the presentation slides & recording.
 
 
 ## Upcoming Events:
 
 Our Events team will cover the following topics this academic year. Details TBA
 
-### 1. Blockchain 101 series
+### 1. Blockchain 101 series 
 
-
-An introduction to bitcoin, ethereum and the technology underpinning them.
+Parts 2, 3 and 4 to follow. Focus areas to be decided 
 
 
 ### 2. Smart Contracts and DApps
