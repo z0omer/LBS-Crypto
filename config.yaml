@@ -82,7 +82,7 @@ params:
       #   url: elements.html
     menu: Menu
     subtitle: "."
-    title: LBS ₿lockchain 
+    title: LBS Blockchain 
   tiles:
     enable: yes
     showcase:
