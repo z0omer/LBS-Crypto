@@ -15,7 +15,7 @@ categories:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-LBS Blockchain Association offers job board postings, networking evenings, career fairs, socials and events presence, newsletter features, and more! 
+LBS Blockchain Society offers job board postings, networking evenings, career fairs, socials and events presence, newsletter features, and more! 
 
 Reach out to us to tap into our network of talents spanning 157 countries who are equipped with the financial and technical knowledge to succeed in the industry as future leaders 
 
