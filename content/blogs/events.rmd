@@ -15,6 +15,21 @@ categories:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## 🚀 EVENT ALERT 🚀 
+
+### New to blockchain? Want to learn more but don't know how? Say no more - come join us for session two of Blockchain 101 next week on Decentralized Finance (DeFi!) ✨
+
+Date: April 13, 2022 @ 7 PM <br>
+Location: LT12 (Sussex) <br>
+[Register Here!](https://www.eventbrite.co.uk/e/blockchain-101-session-2-defi-tickets-315585995207)
+
+#### ABOUT
+Join Bo & Alex, current LBS students, to learn more about DeFi - specifically, what it is, how it works (at a high level), where it exists, and how to get involved in the space. The first 20 - 30 minutes of the session will be a peer-led presentation; thereafter, the floor will be open for Q&A. 
+
+This session is the second event in a series meant to help showcase the world of blockchain in bite-sized, easy-to-follow portions. Blockchain 101 is intended for those who are totally new to the tech, but all are welcome ☺️
+
+This session is co-hosted by the LBS Blockchain Society and LBS Tech & Media Club (TMC) 💙
+
 ## 🚀 EVENT HIGHLIGHTS - BLOCKCHAIN 101 🚀 
 
 ## The first session of our Blockchain 101 series hosted by Neha Bhasin and Carlos Saavedra✨
