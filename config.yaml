@@ -13,14 +13,14 @@ params:
   blog: {}
   contact:
     address:
-      - city: London, NW1 6BU
+      - city: London, NW1 4SA
         country: United Kingdom
-        street: Sussex Place
+        street: Regent's Park
         title: Address
     buttonClear: Clear
     buttonSend: Get in touch
     email:
-      - email: lbsblockchain@protonmail.com
+      - email: blockchain@london.edu
         title: Email
     enable: yes
     # phone:
